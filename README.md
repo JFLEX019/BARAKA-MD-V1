@@ -7,7 +7,7 @@
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h">
-    <img alt=Support height="390" src="https://telegra.ph/file/346b2fb749a7255defe87.jpg"> 
+    <img alt=Support height="390" src="https://telegra.ph/file/0b5b12bc94250908217b5.jpg"> 
     </p>
  
  
