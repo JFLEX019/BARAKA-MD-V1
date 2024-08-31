@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/JFLEX019/BARAKA-MD-V1.git  /root/BmwMD
+RUN git clone https://github.com/Mrandbad/MR-ANDBAD-MD-.git  /root/BmwMD
 WORKDIR /root/bmwmd/
 
 
