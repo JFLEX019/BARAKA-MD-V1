@@ -1,17 +1,17 @@
 
 {
-  "name":"BARAKA-MD-V1",
-  "description":"Best whatsapp bot developed by Baraka bega+Ibrahim adams",
+  "name":"MR_ANDBAD-MD",
+  "description":"Best whatsapp bot developed by ANDBAD+JFLEX og",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/e98ca927f62b4d4e9ba87.jpg",
-  "repository":"https://github.com/ibraahadam/BARAKA-MD-V3",
+  "logo":"https://telegra.ph/file/44e78d1a192ba12c33ff4.jpg",
+  "repository":"https://github.com/Mrandbad/MR-ANDBAD-MD.git",
   "succes_url":"/",
   "stack":"container",
   "env":{
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":".",
+      "value":"*",
       "required":true
     },
     "AUTO_READ_STATUS":
@@ -36,14 +36,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BARAKA-MD-V1",
+      "value":"MR_ANDBAD-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/e98ca927f62b4d4e9ba87.jpg",
+      "value":"https://telegra.ph/file/44e78d1a192ba12c33ff4.jpg","https://telegra.ph/file/0b5b12bc94250908217b5.jpg",
       "required":false
        
      },
@@ -75,14 +75,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Mr baraka"
+    "value": "Mr ANDBAD"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255762190568,255679513639,254710772666"
+    "value": "255768318788,255786535571"
   },
     "WARN_COUNT":
   {
