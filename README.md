@@ -22,11 +22,11 @@
 
 
  <p align="left">
-  <a href="https://github.com/Kingbega/BARAKA-MD-V1/fork">
-    <img src="https://img.shields.io/github/forks/Kingbega/BARAKA-MD-V1?label=Fork&style=social">
+  <a href="https://github.com/Mrandbad/MR-ANDBAD-MD/fork">
+    <img src="https://img.shields.io/github/forks/Mrandbad/MR-ANDBAD-MD?label=Fork&style=social">
   <p align="left"> 
-  <a href="https://github.com/Kingbega/BARAKA-MD-V1/stargazers">
-    <img src="https://img.shields.io/github/stars/Kingbega/BARAKA-MD-V1?style=social">
+  <a href="https://github.com/Mrandbad/MR-ANDBAD-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/Mrandbad/MR-ANDBAD-MD?style=social">
       
 
 
@@ -40,7 +40,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Kingbega/BARAKA-MD-V1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Mrandbad/MR-ANDBAD-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 2. Get session id by (SCANNING QR1)
@@ -71,26 +71,10 @@
     <br>
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Kingbega/bega-media-v1' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-
-#### DEPLOY TO REPLIT
-
-1. If You don't have an account in Replit. Create a account.
-    <br>
-<a href='https://replit.com/signup' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
-
 2. Now Deploy
     <br>
     <a href='https://repl.it/github/salmanytofficial/XLICON-V3-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
     
-
-
-#### DEPLOY TO OKTETO
-
-1. If You don't have a account in Okteto. Create a account.
-    <br>
-<a href='https://www.okteto.com/pricing/?plan=SaaS' target="_blank"><img alt='Okteto' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=opera' width="96.35" height="28"/></a></p>
-
 
 2. Now Deploy
     <br>
@@ -174,22 +158,20 @@
 
 
 ### `𝐓𝐡𝐚𝐧𝐤𝐬 𝐓𝐨 𝐆𝐨𝐝`🙏
-- Baraka-Bega
-- Ibrahim-Adams
-- Who Helping Me
-- Who Using This Bot
-- Text Me On WhatsApp [Wa-number](https://wa.me/255762190568)
+- Mr andbad
+- 𝐉𝐅𝐋𝐄𝐗 𝐎𝐆
+- Text Me On WhatsApp [Wa-number](https://wa.me/255768318788)
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ## 🌴 *`BOT-OWNER`*
-<a href="https://github.com/Kingbega"><img src="https://github.com/Kingbega.png" width="250" height="250" alt="Baraka"/></a>
+<a href="https://github.com/Mrandbad"><img src="https://github.com/Mrandbad.png" width="250" height="250" alt="MR-ANDBAD-MD"/></a>
 
 
 ## 🌴 *`MAIN-DEV`*
-<a href="https://github.com/ibrahimaitech"><img src="https://github.com/ibrahimaitech.png" width="250" height="250" alt="Ibrahim"/></a>
+<a href="https://github.com/JFLEX019"><img src="https://github.com/JFLEX019.png" width="250" height="250" alt="JFLEX019"/></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
